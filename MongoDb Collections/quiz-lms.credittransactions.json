@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6999a16a37b23f790a3a42a0"
+  },
+  "userId": {
+    "$oid": "699657a9d0b27824071e072c"
+  },
+  "amount": 1,
+  "type": "admin_topup",
+  "adminId": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "balanceAfter": 1,
+  "createdAt": {
+    "$date": "2026-02-21T12:13:30.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a1c037b23f790a3a430f"
+  },
+  "userId": {
+    "$oid": "6997564ed10cdf915a3114c6"
+  },
+  "amount": 3,
+  "type": "admin_topup",
+  "adminId": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "balanceAfter": 3,
+  "createdAt": {
+    "$date": "2026-02-21T12:14:56.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a33437b23f790a3a441f"
+  },
+  "userId": {
+    "$oid": "6999a33437b23f790a3a441d"
+  },
+  "amount": 3,
+  "type": "registration",
+  "adminId": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "note": "Free credits assigned at account creation (admin)",
+  "balanceAfter": 3,
+  "createdAt": {
+    "$date": "2026-02-21T12:21:08.145Z"
+  },
+  "__v": 0
+}]

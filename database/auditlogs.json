@@ -1,0 +1,48 @@
+[{
+  "_id": { "$oid": "69965765d0b27824071e06da" },
+  "actor": { "$oid": "6995b88f5944113957f1a0fd" },
+  "actorUsername": "superadmin",
+  "action": "CREATE_ADMIN",
+  "targetUser": { "$oid": "69965765d0b27824071e06d8" },
+  "targetUsername": "noman",
+  "details": { "role": "admin" },
+  "ipAddress": "::1",
+  "timestamp": { "$date": "2026-02-19T00:20:53.289Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "699758afd10cdf915a31155d" },
+  "actor": { "$oid": "6995b88f5944113957f1a0fd" },
+  "actorUsername": "superadmin",
+  "action": "CREATE_ADMIN",
+  "targetUser": { "$oid": "699758afd10cdf915a31155b" },
+  "targetUsername": "admin2",
+  "details": { "role": "admin" },
+  "ipAddress": "::1",
+  "timestamp": { "$date": "2026-02-19T18:38:39.461Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "699f64d2cc2871c23d56b6bc" },
+  "actor": { "$oid": "6995b88f5944113957f1a0fd" },
+  "actorUsername": "superadmin",
+  "action": "CREATE_ADMIN",
+  "targetUser": { "$oid": "699f64d2cc2871c23d56b6ba" },
+  "targetUsername": "noman1122",
+  "details": { "role": "admin" },
+  "ipAddress": "::1",
+  "timestamp": { "$date": "2026-02-25T21:08:34.041Z" },
+  "__v": 0
+},
+{
+  "_id": { "$oid": "699f654acc2871c23d56b71b" },
+  "actor": { "$oid": "6995b88f5944113957f1a0fd" },
+  "actorUsername": "superadmin",
+  "action": "CREATE_ADMIN",
+  "targetUser": { "$oid": "699f654acc2871c23d56b719" },
+  "targetUsername": "ContentManager",
+  "details": { "role": "content_manager" },
+  "ipAddress": "::1",
+  "timestamp": { "$date": "2026-02-25T21:10:34.433Z" },
+  "__v": 0
+}]

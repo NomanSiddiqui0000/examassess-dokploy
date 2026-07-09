@@ -1,0 +1,3444 @@
+[{
+  "_id": {
+    "$oid": "6995b8905944113957f1a105"
+  },
+  "questionText": "What is the capital of France?",
+  "options": [
+    "London",
+    "Berlin",
+    "Paris",
+    "Madrid"
+  ],
+  "correctAnswer": 2,
+  "category": "Geography",
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.641Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a106"
+  },
+  "questionText": "What is 2 + 2?",
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": 1,
+  "category": "Mathematics",
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a107"
+  },
+  "questionText": "Which planet is known as the Red Planet?",
+  "options": [
+    "Venus",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+  ],
+  "correctAnswer": 1,
+  "category": "Science",
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a108"
+  },
+  "questionText": "Who wrote \"Romeo and Juliet\"?",
+  "options": [
+    "Charles Dickens",
+    "William Shakespeare",
+    "Jane Austen",
+    "Mark Twain"
+  ],
+  "correctAnswer": 1,
+  "category": "Literature",
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a109"
+  },
+  "questionText": "What is the largest ocean on Earth?",
+  "options": [
+    "Atlantic Ocean",
+    "Indian Ocean",
+    "Arctic Ocean",
+    "Pacific Ocean"
+  ],
+  "correctAnswer": 3,
+  "category": "Geography",
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a10a"
+  },
+  "questionText": "What is the square root of 64?",
+  "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "correctAnswer": 2,
+  "category": "Mathematics",
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a10b"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere?",
+  "options": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon Dioxide",
+    "Hydrogen"
+  ],
+  "correctAnswer": 2,
+  "category": "Science",
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a10c"
+  },
+  "questionText": "In which year did World War II end?",
+  "options": [
+    "1943",
+    "1944",
+    "1945",
+    "1946"
+  ],
+  "correctAnswer": 2,
+  "category": "History",
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a10d"
+  },
+  "questionText": "What is the smallest prime number?",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "correctAnswer": 2,
+  "category": "Mathematics",
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a10e"
+  },
+  "questionText": "Which programming language is known as the \"language of the web\"?",
+  "options": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "C++"
+  ],
+  "correctAnswer": 2,
+  "category": "Technology",
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.643Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6997581cd10cdf915a311516"
+  },
+  "questionText": "n8n stands for?",
+  "options": [
+    "node",
+    "node and node",
+    "all of these",
+    "none"
+  ],
+  "correctAnswer": 0,
+  "category": "computer Science",
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b8905944113957f1a101"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T18:36:12.730Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T18:36:12.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69975862d10cdf915a31153b"
+  },
+  "questionText": "rag stands for?",
+  "options": [
+    "reterival augmented generation",
+    "ai",
+    "none",
+    "all of these"
+  ],
+  "correctAnswer": 0,
+  "category": "cs",
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0ff"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T18:37:22.476Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T18:37:22.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f72"
+  },
+  "questionText": "What is the capital of France?",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.293Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.293Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f73"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere?",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f74"
+  },
+  "questionText": "5 + 7 × 2 = ?",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f75"
+  },
+  "questionText": "Which part of the computer stores data permanently?",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f76"
+  },
+  "questionText": "Synonym of 'Quick' is:",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f77"
+  },
+  "questionText": "What is the capital of France? (Set 6)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f78"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 7)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f79"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 8)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f7a"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 9)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f7b"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 10)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f7c"
+  },
+  "questionText": "What is the capital of France? (Set 11)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f7d"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 12)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f7e"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 13)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f7f"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 14)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f80"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 15)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f81"
+  },
+  "questionText": "What is the capital of France? (Set 16)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f82"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 17)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f83"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 18)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f84"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 19)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f85"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 20)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f86"
+  },
+  "questionText": "What is the capital of France? (Set 21)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f87"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 22)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f88"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 23)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f89"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 24)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f8a"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 25)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f8b"
+  },
+  "questionText": "What is the capital of France? (Set 26)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f8c"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 27)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f8d"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 28)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f8e"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 29)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f8f"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 30)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f90"
+  },
+  "questionText": "What is the capital of France? (Set 31)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f91"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 32)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f92"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 33)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f93"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 34)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f94"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 35)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f95"
+  },
+  "questionText": "What is the capital of France? (Set 36)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f96"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 37)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f97"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 38)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f98"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 39)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f99"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 40)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f9a"
+  },
+  "questionText": "What is the capital of France? (Set 41)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f9b"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 42)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f9c"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 43)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f9d"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 44)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f9e"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 45)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27f9f"
+  },
+  "questionText": "What is the capital of France? (Set 46)",
+  "options": [
+    "Berlin",
+    "Madrid",
+    "Paris",
+    "Rome"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27fa0"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere? (Set 47)",
+  "options": [
+    "Oxygen",
+    "Carbon Dioxide",
+    "Nitrogen",
+    "Hydrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27fa1"
+  },
+  "questionText": "5 + 7 × 2 = ? (Set 48)",
+  "options": [
+    "19",
+    "24",
+    "17",
+    "26"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27fa2"
+  },
+  "questionText": "Which part of the computer stores data permanently? (Set 49)",
+  "options": [
+    "RAM",
+    "Cache",
+    "Hard Disk",
+    "Register"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a449904af6ac422b27fa3"
+  },
+  "questionText": "Synonym of 'Quick' is: (Set 50)",
+  "options": [
+    "Slow",
+    "Rapid",
+    "Lazy",
+    "Weak"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T23:49:45.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699e59d06a15462dd7bcd2a5"
+  },
+  "questionText": "solve : 4x 5 ?",
+  "options": [
+    "20",
+    "36",
+    "34",
+    "15"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "typeId": {
+    "$oid": "699e55a76a15462dd7bcd00f"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T02:09:20.950Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T02:09:20.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e5b0c6a15462dd7bcd43e"
+  },
+  "questionText": "Who is the founder of theory of relativity?",
+  "options": [
+    "Einestien",
+    "Grahambell",
+    "Camus",
+    "Newton"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "typeId": {
+    "$oid": "699e5ab76a15462dd7bcd426"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T02:14:36.158Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T02:14:36.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e5b4d6a15462dd7bcd445"
+  },
+  "questionText": "what is gravity\n?",
+  "options": [
+    "force",
+    "Space time Curvature",
+    "effect",
+    "resistence"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "typeId": {
+    "$oid": "699e5aa36a15462dd7bcd41e"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T02:15:41.920Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T02:15:41.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b67"
+  },
+  "questionText": "What does CPU stand for?",
+  "options": [
+    "Central Processing Unit",
+    "Central Program Utility",
+    "Computer Personal Unit",
+    "Central Processor Unifier"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Hard",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.385Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b68"
+  },
+  "questionText": "What is the capital of France?",
+  "options": [
+    "Paris",
+    "Berlin",
+    "Madrid",
+    "Rome"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b69"
+  },
+  "questionText": "Which planet is known as the Red Planet?",
+  "options": [
+    "Earth",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b6a"
+  },
+  "questionText": "Who developed the theory of relativity?",
+  "options": [
+    "Newton",
+    "Einstein",
+    "Galileo",
+    "Tesla"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b6b"
+  },
+  "questionText": "What is the largest ocean on Earth?",
+  "options": [
+    "Atlantic",
+    "Indian",
+    "Pacific",
+    "Arctic"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b6c"
+  },
+  "questionText": "Which country hosted the 2022 FIFA World Cup?",
+  "options": [
+    "Russia",
+    "Brazil",
+    "Qatar",
+    "Germany"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b6d"
+  },
+  "questionText": "What is the chemical symbol for Gold?",
+  "options": [
+    "Au",
+    "Ag",
+    "Gd",
+    "Go"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b6e"
+  },
+  "questionText": "Who wrote 'Hamlet'?",
+  "options": [
+    "Shakespeare",
+    "Dickens",
+    "Hemingway",
+    "Austen"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b6f"
+  },
+  "questionText": "What is the square root of 144?",
+  "options": [
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b70"
+  },
+  "questionText": "Which gas do plants absorb from the atmosphere?",
+  "options": [
+    "Oxygen",
+    "Nitrogen",
+    "Carbon Dioxide",
+    "Hydrogen"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b71"
+  },
+  "questionText": "What is the fastest land animal?",
+  "options": [
+    "Lion",
+    "Cheetah",
+    "Tiger",
+    "Leopard"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b72"
+  },
+  "questionText": "Who is the founder of Microsoft?",
+  "options": [
+    "Steve Jobs",
+    "Bill Gates",
+    "Elon Musk",
+    "Mark Zuckerberg"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Medium",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b73"
+  },
+  "questionText": "Which continent is the Sahara Desert located in?",
+  "options": [
+    "Asia",
+    "Africa",
+    "Australia",
+    "South America"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b74"
+  },
+  "questionText": "What is the boiling point of water at sea level (°C)?",
+  "options": [
+    "90",
+    "95",
+    "100",
+    "105"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b75"
+  },
+  "questionText": "Who painted the Mona Lisa?",
+  "options": [
+    "Van Gogh",
+    "Picasso",
+    "Da Vinci",
+    "Rembrandt"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b76"
+  },
+  "questionText": "What is the currency of Japan?",
+  "options": [
+    "Yuan",
+    "Won",
+    "Yen",
+    "Dollar"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b77"
+  },
+  "questionText": "Which element has atomic number 1?",
+  "options": [
+    "Oxygen",
+    "Hydrogen",
+    "Helium",
+    "Nitrogen"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b78"
+  },
+  "questionText": "Which country is home to the Great Barrier Reef?",
+  "options": [
+    "USA",
+    "Australia",
+    "UK",
+    "Canada"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b79"
+  },
+  "questionText": "What is the hardest natural substance?",
+  "options": [
+    "Gold",
+    "Iron",
+    "Diamond",
+    "Silver"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b7a"
+  },
+  "questionText": "Who was the first man to walk on the Moon?",
+  "options": [
+    "Buzz Aldrin",
+    "Neil Armstrong",
+    "Yuri Gagarin",
+    "Michael Collins"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b7b"
+  },
+  "questionText": "Which organ pumps blood in the human body?",
+  "options": [
+    "Liver",
+    "Brain",
+    "Heart",
+    "Lungs"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b7c"
+  },
+  "questionText": "What is 15 × 6?",
+  "options": [
+    "80",
+    "85",
+    "90",
+    "95"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b7d"
+  },
+  "questionText": "Which language is primarily spoken in Brazil?",
+  "options": [
+    "Spanish",
+    "Portuguese",
+    "French",
+    "English"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b7e"
+  },
+  "questionText": "What is the tallest mountain in the world?",
+  "options": [
+    "K2",
+    "Everest",
+    "Kangchenjunga",
+    "Makalu"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b7f"
+  },
+  "questionText": "Which planet is closest to the Sun?",
+  "options": [
+    "Venus",
+    "Earth",
+    "Mercury",
+    "Mars"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b80"
+  },
+  "questionText": "Who invented the telephone?",
+  "options": [
+    "Edison",
+    "Bell",
+    "Tesla",
+    "Newton"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b81"
+  },
+  "questionText": "What is the freezing point of water (°C)?",
+  "options": [
+    "0",
+    "5",
+    "10",
+    "-5"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b82"
+  },
+  "questionText": "Which blood type is known as the universal donor?",
+  "options": [
+    "A",
+    "B",
+    "AB",
+    "O-"
+  ],
+  "correctAnswer": 3,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b83"
+  },
+  "questionText": "What is the main ingredient in bread?",
+  "options": [
+    "Sugar",
+    "Flour",
+    "Salt",
+    "Oil"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b84"
+  },
+  "questionText": "Which country is famous for the pyramids?",
+  "options": [
+    "Mexico",
+    "Egypt",
+    "Peru",
+    "India"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee36e9f6343a0a04d5b85"
+  },
+  "questionText": "Who discovered gravity?",
+  "options": [
+    "Einstein",
+    "Newton",
+    "Galileo",
+    "Faraday"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:56:30.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5be8"
+  },
+  "questionText": "What is the SI unit of force?",
+  "options": [
+    "Newton",
+    "Joule",
+    "Pascal",
+    "Watt"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5be9"
+  },
+  "questionText": "Who formulated the laws of motion?",
+  "options": [
+    "Einstein",
+    "Newton",
+    "Galileo",
+    "Tesla"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bea"
+  },
+  "questionText": "What is the speed of light in vacuum?",
+  "options": [
+    "3×10^8 m/s",
+    "3×10^6 m/s",
+    "3×10^5 km/s",
+    "3×10^7 m/s"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5beb"
+  },
+  "questionText": "Which device is used to measure electric current?",
+  "options": [
+    "Voltmeter",
+    "Ammeter",
+    "Barometer",
+    "Thermometer"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bec"
+  },
+  "questionText": "What is the unit of electrical resistance?",
+  "options": [
+    "Ohm",
+    "Volt",
+    "Ampere",
+    "Coulomb"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bed"
+  },
+  "questionText": "Which law states V = IR?",
+  "options": [
+    "Ohm’s Law",
+    "Newton’s Law",
+    "Faraday’s Law",
+    "Hooke’s Law"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bee"
+  },
+  "questionText": "What type of energy is stored in a compressed spring?",
+  "options": [
+    "Kinetic Energy",
+    "Thermal Energy",
+    "Potential Energy",
+    "Chemical Energy"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bef"
+  },
+  "questionText": "What is the acceleration due to gravity on Earth (approx)?",
+  "options": [
+    "9.8 m/s²",
+    "8.9 m/s²",
+    "10.8 m/s²",
+    "7.8 m/s²"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bf0"
+  },
+  "questionText": "Which wave does not require a medium to travel?",
+  "options": [
+    "Sound wave",
+    "Water wave",
+    "Light wave",
+    "Seismic wave"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5399f6343a0a04d5bf1"
+  },
+  "questionText": "What is the unit of power?",
+  "options": [
+    "Joule",
+    "Newton",
+    "Watt",
+    "Pascal"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:09.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5bfb"
+  },
+  "questionText": "What is the SI unit of force?",
+  "options": [
+    "Newton",
+    "Joule",
+    "Pascal",
+    "Watt"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.540Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5bfc"
+  },
+  "questionText": "Who formulated the laws of motion?",
+  "options": [
+    "Einstein",
+    "Newton",
+    "Galileo",
+    "Tesla"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.540Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5bfd"
+  },
+  "questionText": "What is the speed of light in vacuum?",
+  "options": [
+    "3×10^8 m/s",
+    "3×10^6 m/s",
+    "3×10^5 km/s",
+    "3×10^7 m/s"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5bfe"
+  },
+  "questionText": "Which device is used to measure electric current?",
+  "options": [
+    "Voltmeter",
+    "Ammeter",
+    "Barometer",
+    "Thermometer"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5bff"
+  },
+  "questionText": "What is the unit of electrical resistance?",
+  "options": [
+    "Ohm",
+    "Volt",
+    "Ampere",
+    "Coulomb"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5c00"
+  },
+  "questionText": "Which law states V = IR?",
+  "options": [
+    "Ohm’s Law",
+    "Newton’s Law",
+    "Faraday’s Law",
+    "Hooke’s Law"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5c01"
+  },
+  "questionText": "What type of energy is stored in a compressed spring?",
+  "options": [
+    "Kinetic Energy",
+    "Thermal Energy",
+    "Potential Energy",
+    "Chemical Energy"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5c02"
+  },
+  "questionText": "What is the acceleration due to gravity on Earth (approx)?",
+  "options": [
+    "9.8 m/s²",
+    "8.9 m/s²",
+    "10.8 m/s²",
+    "7.8 m/s²"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5c03"
+  },
+  "questionText": "Which wave does not require a medium to travel?",
+  "options": [
+    "Sound wave",
+    "Water wave",
+    "Light wave",
+    "Seismic wave"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ee5509f6343a0a04d5c04"
+  },
+  "questionText": "What is the unit of power?",
+  "options": [
+    "Joule",
+    "Newton",
+    "Watt",
+    "Pascal"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:04:32.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d98"
+  },
+  "questionText": "What is the SI unit of force?",
+  "options": [
+    "Newton",
+    "Joule",
+    "Pascal",
+    "Watt"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.295Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d99"
+  },
+  "questionText": "Who formulated the laws of motion?",
+  "options": [
+    "Einstein",
+    "Newton",
+    "Galileo",
+    "Tesla"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d9a"
+  },
+  "questionText": "What is the speed of light in vacuum?",
+  "options": [
+    "3×10^8 m/s",
+    "3×10^6 m/s",
+    "3×10^5 km/s",
+    "3×10^7 m/s"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d9b"
+  },
+  "questionText": "Which device is used to measure electric current?",
+  "options": [
+    "Voltmeter",
+    "Ammeter",
+    "Barometer",
+    "Thermometer"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d9c"
+  },
+  "questionText": "What is the unit of electrical resistance?",
+  "options": [
+    "Ohm",
+    "Volt",
+    "Ampere",
+    "Coulomb"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d9d"
+  },
+  "questionText": "Which law states V = IR?",
+  "options": [
+    "Ohm’s Law",
+    "Newton’s Law",
+    "Faraday’s Law",
+    "Hooke’s Law"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d9e"
+  },
+  "questionText": "What type of energy is stored in a compressed spring?",
+  "options": [
+    "Kinetic Energy",
+    "Thermal Energy",
+    "Potential Energy",
+    "Chemical Energy"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5d9f"
+  },
+  "questionText": "What is the acceleration due to gravity on Earth (approx)?",
+  "options": [
+    "9.8 m/s²",
+    "8.9 m/s²",
+    "10.8 m/s²",
+    "7.8 m/s²"
+  ],
+  "correctAnswer": 0,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5da0"
+  },
+  "questionText": "Which wave does not require a medium to travel?",
+  "options": [
+    "Sound wave",
+    "Water wave",
+    "Light wave",
+    "Seismic wave"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699ef0be9f6343a0a04d5da1"
+  },
+  "questionText": "What is the unit of power?",
+  "options": [
+    "Joule",
+    "Newton",
+    "Watt",
+    "Pascal"
+  ],
+  "correctAnswer": 2,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T12:53:18.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:53:18.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699efe809f6343a0a04d6180"
+  },
+  "questionText": "What is 2 + 2?",
+  "options": [
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T13:52:00.537Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:52:00.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699f07b9cc2871c23d56b4e8"
+  },
+  "questionText": "What is 2 + 7?",
+  "options": [
+    "3",
+    "9",
+    "5",
+    "6"
+  ],
+  "correctAnswer": 1,
+  "category": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "typeId": {
+    "$oid": "699e55a76a15462dd7bcd00f"
+  },
+  "difficulty": "Easy",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-02-25T14:31:21.638Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T14:31:21.638Z"
+  }
+}]

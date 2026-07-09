@@ -1,0 +1,18 @@
+{
+  "name": "examassess-v2-root",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "backend/frontend"
+  ],
+  "scripts": {
+    "build:frontend": "npm run build --workspace=backend/frontend",
+    "build:backend": "npm run build --workspace=backend",
+    "build": "npm run build:frontend && npm run build:backend",
+    "start": "npm run start --workspace=backend"
+  },
+  "dependencies": {
+    "mongodb": "^7.4.0"
+  }
+}

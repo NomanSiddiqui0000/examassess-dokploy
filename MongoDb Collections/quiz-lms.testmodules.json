@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6999a2f237b23f790a3a43a7"
+  },
+  "name": "NAT",
+  "freeCredits": 3,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-02-21T12:20:02.488Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:20:02.488Z"
+  },
+  "__v": 0
+}]

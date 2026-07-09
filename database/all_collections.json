@@ -1,0 +1,75 @@
+users|4
+[
+  {
+    "_id": "6a3e9cf175bdf4f2652c79d4",
+    "username": "superadmin",
+    "password": "$2a$12$mBekuVP1gZqq0zIjrrjCnusQ.RVumIlq9/MUYkluxI5CCWpMTXZTK",
+    "role": "super_admin",
+    "isActive": true,
+    "mustChangePassword": false,
+    "credits": 0,
+    "modules": {
+      "practiceModule": false,
+      "teacherAssessments": false
+    },
+    "emailVerified": false,
+    "passwordResetCount": 0,
+    "createdAt": "2026-06-26T15:38:25.766Z",
+    "updatedAt": "2026-06-26T15:38:25.766Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e9cf275bdf4f2652c79d6",
+    "username": "admin",
+    "password": "$2a$12$6BRiCu1aeQs7vnDtr9eqi.ej/JmQ4uM74MeJnwVfZNQGfxGthVuSy",
+    "role": "admin",
+    "isActive": true,
+    "mustChangePassword": true,
+    "credits": 0,
+    "modules": {
+      "practiceModule": false,
+      "teacherAssessments": false
+    },
+    "emailVerified": false,
+    "passwordResetCount": 0,
+    "createdAt": "2026-06-26T15:38:26.492Z",
+    "updatedAt": "2026-06-26T15:38:26.492Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e9cf375bdf4f2652c79d8",
+    "username": "contentmgr",
+    "password": "$2a$12$al6WzC6SLVXfnFG8koy7VusEIbAB6hOzXLAFDgsadwkZptQjWnDpC",
+    "role": "content_manager",
+    "isActive": true,
+    "mustChangePassword": true,
+    "credits": 0,
+    "modules": {
+      "practiceModule": false,
+      "teacherAssessments": false
+    },
+    "emailVerified": false,
+    "passwordResetCount": 0,
+    "createdAt": "2026-06-26T15:38:27.046Z",
+    "updatedAt": "2026-06-26T15:38:27.046Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a3e9cf375bdf4f2652c79da",
+    "username": "testuser",
+    "password": "$2a$10$hhlBz5ykvtZVoFFLkoTC7OGJMMwqsbZX005uoSFDXtczZVoLqjg2O",
+    "role": "user",
+    "isActive": true,
+    "mustChangePassword": false,
+    "credits": 0,
+    "modules": {
+      "practiceModule": false,
+      "teacherAssessments": false
+    },
+    "emailVerified": false,
+    "passwordResetCount": 0,
+    "createdAt": "2026-06-26T15:38:27.188Z",
+    "updatedAt": "2026-06-26T15:38:27.188Z",
+    "__v": 0
+  }
+]

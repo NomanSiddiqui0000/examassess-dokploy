@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "699f0926cc2871c23d56b601"
+  },
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "numberOfQuestions": 10,
+  "duration": 3,
+  "marksPerQuestion": 1,
+  "passingMarks": 5,
+  "creditCost": 1,
+  "isActive": true,
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T14:37:26.646Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T14:37:26.646Z"
+  },
+  "__v": 0
+}]

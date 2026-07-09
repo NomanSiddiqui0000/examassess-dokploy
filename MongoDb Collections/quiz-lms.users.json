@@ -1,0 +1,511 @@
+[{
+  "_id": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "username": "superadmin",
+  "password": "$2a$12$QDPYYvCR6kBQUbf64pAJUu1TVm.CRbnabo3KIuXjlrk0IjOZwZoDK",
+  "role": "super_admin",
+  "isActive": true,
+  "mustChangePassword": false,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:11.401Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:11.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995b88f5944113957f1a0ff"
+  },
+  "username": "admin",
+  "password": "$2a$12$UMSnL7et97BADsQyOQDo7unZPGp9/AMC6LZqNMnVqXgPsrTcVoIe6",
+  "role": "admin",
+  "isActive": true,
+  "mustChangePassword": true,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:11.958Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:11.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995b8905944113957f1a101"
+  },
+  "username": "contentmgr",
+  "password": "$2a$12$22A00aHz6CbBlD5b0QwXt.qH6blYWpuzIw/fZNlFXghBMoEPaSmT6",
+  "role": "content_manager",
+  "isActive": true,
+  "mustChangePassword": true,
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.486Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T13:03:12.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69965765d0b27824071e06d8"
+  },
+  "username": "noman",
+  "password": "$2a$12$jvO/20aXSZAaGhUciII9nesxLu3waR5iTlNQ7lp6xgqH06SqEvGSO",
+  "role": "admin",
+  "isActive": true,
+  "mustChangePassword": true,
+  "createdAt": {
+    "$date": "2026-02-19T00:20:53.271Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T00:20:53.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699758afd10cdf915a31155b"
+  },
+  "username": "admin2",
+  "password": "$2a$12$RJRtl3xGK17BOaVmlDYz6e9dNprzoV/MXG2BT2j.ypa.f8apT7ZBq",
+  "role": "admin",
+  "isActive": true,
+  "mustChangePassword": true,
+  "createdAt": {
+    "$date": "2026-02-19T18:38:39.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T18:38:39.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6999a33437b23f790a3a441d"
+  },
+  "username": "nomsid",
+  "password": "$2a$10$/m6loZVRP7LdZ4vP2AlVOuzMOXnpyiNNMhrd9NKx.ONuvcgo4xQVC",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "fullName": "noman",
+  "email": "nomi.sid941@gmail.com",
+  "mobile": "03154832988",
+  "testModule": {
+    "$oid": "6999a2f237b23f790a3a43a7"
+  },
+  "creditBalance": 3,
+  "registrationSource": "admin",
+  "createdAt": {
+    "$date": "2026-02-21T12:21:08.139Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T14:14:26.354Z"
+  },
+  "__v": 0,
+  "credits": 34
+},
+{
+  "_id": {
+    "$oid": "699a21748cdcd0adde3d36b8"
+  },
+  "username": "muhammadnoman63100@gmail.com",
+  "email": "muhammadnoman63100@gmail.com",
+  "fullName": "Muhammad Noman",
+  "password": "$2a$10$wfDr4QW6we8cNN5T.R33GOOBZq0mS9MlcjipE0K.7HqdJ5e8g9wjS",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "6999bdaf249726be9c2548fb"
+  },
+  "credits": 3,
+  "createdAt": {
+    "$date": "2026-02-21T21:19:48.931Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T21:19:48.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a452204af6ac422b2802e"
+  },
+  "username": "muhammad@gmail.com",
+  "email": "muhammad@gmail.com",
+  "fullName": "noman",
+  "password": "$2a$10$UKV/bozQr/Qd.OgRxW.ciOZd6Tcn7ejlT.a/3F24Zd8jFQ6u0DNOO",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 6,
+  "createdAt": {
+    "$date": "2026-02-21T23:52:02.497Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T00:12:35.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "username": "muhammad",
+  "password": "$2a$10$fY9ARSyEMjMouIbaals9ju.rAmXr.p5nbIPqtz2Mu31hq2BFh1BRa",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 18,
+  "createdAt": {
+    "$date": "2026-02-22T00:15:31.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T13:03:58.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a58944fb8e887eb8f6c97"
+  },
+  "username": "nomi@gmail.com",
+  "email": "nomi@gmail.com",
+  "fullName": "nomi",
+  "password": "$2a$10$U8zawvgqbPUC7k50H.PsD.P0G9SxqkYbk3zON42njNWATnZrUKSZu",
+  "role": "user",
+  "isActive": false,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 4,
+  "createdAt": {
+    "$date": "2026-02-22T01:15:00.499Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T12:21:13.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5a0b4fb8e887eb8f6de6"
+  },
+  "username": "nomsid@gmail.com",
+  "email": "nomsid@gmail.com",
+  "fullName": "nomsid",
+  "password": "$2a$10$rRqvyG2HMcJCikmBYCZs2OSLkJXFYiH1VB2zR5N.DAAX3yJ6m.aGa",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-22T01:21:15.318Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T01:21:19.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "username": "hello@gmail.com",
+  "email": "hello@gmail.com",
+  "fullName": "hello",
+  "password": "$2a$10$4fH67/Qpl.adGr5eokFr9.2yZ5zT4YqtV/2KNIkLCItN9g1CqlLTC",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-22T01:30:27.283Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T01:31:32.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "username": "nom@gamil.com",
+  "email": "nom@gamil.com",
+  "fullName": "nom",
+  "password": "$2a$10$ng4tavaoyoRLK6cELOVGau/Vi2jfaSBE24KVVnrTUqNgBL.dmjBJy",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-22T12:52:40.959Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T12:53:00.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "username": "asdfsd@gmail.com",
+  "email": "asdfsd@gmail.com",
+  "fullName": "dsfaf",
+  "password": "$2a$10$VGP4AdyoC4wRGuRxZ0JJsOWJZQT7PypPGFnFIqAbItQmRid2yjUue",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-22T13:05:10.863Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-22T13:05:21.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "username": "asdfasd@gmail.com",
+  "email": "asdfasd@gmail.com",
+  "fullName": "afadfsadfs",
+  "password": "$2a$10$HerDwRCQk66pSCWs1smjVu.MGUjdX20AtRnDZTzs9aDqu7KqJkWHu",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 7,
+  "createdAt": {
+    "$date": "2026-02-23T00:59:25.378Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-23T01:01:00.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "username": "dasfsd@gmail.com",
+  "email": "dasfsd@gmail.com",
+  "fullName": "dfasdf",
+  "password": "$2a$10$3O1.jKHYHjSW7jXmFvY.TeHIykalCCvY3Ery7F.LFYwyTWSkziYHa",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 8,
+  "createdAt": {
+    "$date": "2026-02-24T01:59:24.141Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T02:01:33.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "username": "nomsid0",
+  "password": "$2a$10$r1ipM.RhfOQzs.91dNWopOn0Qoq..68LRw4.Mp3C/K/OIPKzFxwPq",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-24T11:44:07.895Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T13:04:57.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dd83c2c6795da09531351"
+  },
+  "username": "hello1@gmail.com",
+  "email": "hello1@gmail.com",
+  "fullName": "jkhjhhjkkjh",
+  "password": "$2a$10$vGUL510pWGXZfU.tHqhsDuCyEJXY761DvF01esXvpwDadHUu79v3m",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 9,
+  "createdAt": {
+    "$date": "2026-02-24T16:56:28.586Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-24T16:56:30.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "username": "me@gmail.com",
+  "email": "me@gmail.com",
+  "fullName": "me",
+  "password": "$2a$10$njzJkWiIX423.IlUTk6C..7oNKR54XTmfP/ok9VnkzAAix7/FPUEu",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 7,
+  "createdAt": {
+    "$date": "2026-02-25T10:16:55.708Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T11:48:34.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f089ccc2871c23d56b5b9"
+  },
+  "username": "nom@gmail.com",
+  "email": "nom@gmail.com",
+  "fullName": "asdf",
+  "password": "$2a$10$ALN/HfywGA4RSDH17f/W7uVC7X.7cQ5RtSOfoZjboOdFZOZOebkKa",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 10,
+  "createdAt": {
+    "$date": "2026-02-25T14:35:08.437Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T14:35:08.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f096bcc2871c23d56b61a"
+  },
+  "username": "me1@gmail.com",
+  "email": "me1@gmail.com",
+  "fullName": "me1",
+  "password": "$2a$10$UGdaHtZ/.74X5qgQIdV.V.nX63SkkjX.q2OBBmuKhd3bLWrYvIizK",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 9,
+  "createdAt": {
+    "$date": "2026-02-25T14:38:35.623Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T14:38:37.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f64d2cc2871c23d56b6ba"
+  },
+  "username": "noman1122",
+  "password": "$2a$12$QRTHfuqlq1KSd0JM8FoaBOPBzBxpRBtUUyg4ST.2K/I4iea1FcGPq",
+  "role": "admin",
+  "isActive": true,
+  "mustChangePassword": true,
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-25T21:08:34.037Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T21:08:34.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f654acc2871c23d56b719"
+  },
+  "username": "ContentManager",
+  "password": "$2a$12$c8xc4YZANVAyHnmIrHZFg.W6Ug9pVL44zFrGlFWT9lxzr4Zgy.1HC",
+  "role": "content_manager",
+  "isActive": true,
+  "mustChangePassword": true,
+  "credits": 0,
+  "createdAt": {
+    "$date": "2026-02-25T21:10:34.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T21:10:34.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f65d8cc2871c23d56b784"
+  },
+  "username": "user2@gmail.com",
+  "email": "user2@gmail.com",
+  "fullName": "user2",
+  "password": "$2a$10$h4blo9osKttifCZZZ.9OqukxDyln/wdWGpalYbXCQQMhxI9lUXcVW",
+  "role": "user",
+  "isActive": true,
+  "mustChangePassword": false,
+  "testCategory": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "credits": 9,
+  "createdAt": {
+    "$date": "2026-02-25T21:12:56.394Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T21:13:06.527Z"
+  },
+  "__v": 0
+}]

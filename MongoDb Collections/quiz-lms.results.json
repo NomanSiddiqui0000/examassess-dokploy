@@ -1,0 +1,3504 @@
+[{
+  "_id": {
+    "$oid": "6994fbc6b4fe82e776c43cd3"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994f969d0652222fd590c88"
+  },
+  "answers": [
+    1,
+    0,
+    2,
+    2,
+    2
+  ],
+  "score": 0,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 38,
+  "submittedAt": {
+    "$date": "2026-02-17T23:37:42.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994fbfab4fe82e776c43ce7"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994f969d0652222fd590c88"
+  },
+  "answers": [
+    2,
+    0,
+    1,
+    2,
+    1
+  ],
+  "score": 2,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 24,
+  "submittedAt": {
+    "$date": "2026-02-17T23:38:34.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994fdbeb4fe82e776c43d39"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994fd6bb4fe82e776c43d29"
+  },
+  "answers": [
+    2,
+    2,
+    3,
+    0,
+    1
+  ],
+  "score": 1,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 26,
+  "submittedAt": {
+    "$date": "2026-02-17T23:46:06.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994fdd8b4fe82e776c43d43"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994fd6bb4fe82e776c43d29"
+  },
+  "answers": [
+    0,
+    3,
+    1,
+    2,
+    2
+  ],
+  "score": 2,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 20,
+  "submittedAt": {
+    "$date": "2026-02-17T23:46:32.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994fdfbb4fe82e776c43d51"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994fd6bb4fe82e776c43d29"
+  },
+  "answers": [
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "score": 1,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 22,
+  "submittedAt": {
+    "$date": "2026-02-17T23:47:07.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994fe0ab4fe82e776c43d5b"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994f969d0652222fd590c88"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "score": 0,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 6,
+  "submittedAt": {
+    "$date": "2026-02-17T23:47:22.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6994fe48b4fe82e776c43d69"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994fd6bb4fe82e776c43d29"
+  },
+  "answers": [
+    2,
+    1,
+    1,
+    3,
+    2
+  ],
+  "score": 2,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 50,
+  "submittedAt": {
+    "$date": "2026-02-17T23:48:24.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995082bb4fe82e776c43e08"
+  },
+  "userId": {
+    "$oid": "6994fb45b4fe82e776c43cbb"
+  },
+  "quizId": {
+    "$oid": "6994fd6bb4fe82e776c43d29"
+  },
+  "answers": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "score": 2,
+  "totalMarks": 5,
+  "passed": false,
+  "timeTaken": 30,
+  "submittedAt": {
+    "$date": "2026-02-18T00:30:35.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699599c58612c934424e2c69"
+  },
+  "userId": {
+    "$oid": "6995994a8612c934424e2c1f"
+  },
+  "quizId": {
+    "$oid": "699598c5d0613052b8f459bd"
+  },
+  "answers": [
+    2,
+    1,
+    1,
+    3,
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "6994f969d0652222fd590c7d"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c7e"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c80"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c81"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c82"
+    }
+  ],
+  "score": 5,
+  "totalMarks": 5,
+  "passed": true,
+  "timeTaken": 33,
+  "submittedAt": {
+    "$date": "2026-02-18T10:51:49.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995a0b68612c934424e2d73"
+  },
+  "userId": {
+    "$oid": "69959fdc8612c934424e2d0d"
+  },
+  "quizId": {
+    "$oid": "6995a04c8612c934424e2d23"
+  },
+  "answers": [
+    2,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    0,
+    0,
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "69959faf8612c934424e2cd8"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce3"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc9"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce2"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cdd"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd9"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce5"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cdf"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cda"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd3"
+    }
+  ],
+  "score": 10,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 73,
+  "submittedAt": {
+    "$date": "2026-02-18T11:21:26.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995a0f58612c934424e2d8f"
+  },
+  "userId": {
+    "$oid": "69959fdc8612c934424e2d0d"
+  },
+  "quizId": {
+    "$oid": "6995a04c8612c934424e2d23"
+  },
+  "answers": [
+    1,
+    2,
+    1,
+    2,
+    2,
+    0,
+    1,
+    2,
+    1,
+    0
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "69959faf8612c934424e2cd9"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc7"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc8"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cdd"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd1"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce4"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce1"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc9"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ccf"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd0"
+    }
+  ],
+  "score": 10,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 41,
+  "submittedAt": {
+    "$date": "2026-02-18T11:22:29.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995a8961c8c28b15969ef3c"
+  },
+  "userId": {
+    "$oid": "69959fdc8612c934424e2d0d"
+  },
+  "quizId": {
+    "$oid": "6995a82a1c8c28b15969ef22"
+  },
+  "answers": [
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "69959faf8612c934424e2ccb"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cdf"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cde"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cf2"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc5"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd1"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd3"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ccf"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd2"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cca"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c86"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd0"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc4"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cf0"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd4"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce4"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce3"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c85"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cda"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ced"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cdc"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ce6"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cdb"
+    },
+    {
+      "$oid": "69959faf8612c934424e2ccd"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c7d"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd7"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cd5"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cf1"
+    },
+    {
+      "$oid": "69959faf8612c934424e2cc6"
+    },
+    {
+      "$oid": "6994f969d0652222fd590c83"
+    }
+  ],
+  "score": 1,
+  "totalMarks": 30,
+  "passed": false,
+  "timeTaken": 85,
+  "submittedAt": {
+    "$date": "2026-02-18T11:55:02.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995bbc55fa72d4f835ee4ff"
+  },
+  "userId": {
+    "$oid": "6995bb635fa72d4f835ee4ac"
+  },
+  "quizId": {
+    "$oid": "6995bb995fa72d4f835ee4bd"
+  },
+  "answers": [
+    0,
+    2,
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "6995b8905944113957f1a107"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    }
+  ],
+  "score": 2,
+  "totalMarks": 3,
+  "passed": true,
+  "timeTaken": 14,
+  "submittedAt": {
+    "$date": "2026-02-18T13:16:53.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995c0385fa72d4f835ee54b"
+  },
+  "userId": {
+    "$oid": "6995bb635fa72d4f835ee4ac"
+  },
+  "quizId": {
+    "$oid": "6995c01f5fa72d4f835ee531"
+  },
+  "answers": [
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "6995b8905944113957f1a10b"
+    }
+  ],
+  "score": 1,
+  "totalMarks": 1,
+  "passed": true,
+  "timeTaken": 3,
+  "submittedAt": {
+    "$date": "2026-02-18T13:35:52.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995d2065fa72d4f835ee6d2"
+  },
+  "userId": {
+    "$oid": "6995bb635fa72d4f835ee4ac"
+  },
+  "quizId": {
+    "$oid": "6995bb995fa72d4f835ee4bd"
+  },
+  "answers": [
+    0,
+    1,
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "6995b8905944113957f1a107"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    }
+  ],
+  "score": 1,
+  "totalMarks": 3,
+  "passed": false,
+  "timeTaken": 38,
+  "submittedAt": {
+    "$date": "2026-02-18T14:51:50.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69965860d0b27824071e0797"
+  },
+  "userId": {
+    "$oid": "699657a9d0b27824071e072c"
+  },
+  "quizId": {
+    "$oid": "6995c01f5fa72d4f835ee531"
+  },
+  "answers": [
+    2,
+    3,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "6995b8905944113957f1a10b"
+    },
+    {
+      "$oid": "6995b8905944113957f1a109"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10a"
+    },
+    {
+      "$oid": "6995b8905944113957f1a108"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10e"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10d"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a106"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    },
+    {
+      "$oid": "6995b8905944113957f1a107"
+    }
+  ],
+  "score": 9,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 51,
+  "submittedAt": {
+    "$date": "2026-02-19T00:25:04.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69975938d10cdf915a311573"
+  },
+  "userId": {
+    "$oid": "6997564ed10cdf915a3114c6"
+  },
+  "quizId": {
+    "$oid": "69975728d10cdf915a3114dd"
+  },
+  "answers": [
+    3,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    0,
+    1,
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "6995b8905944113957f1a109"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10b"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a108"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10a"
+    },
+    {
+      "$oid": "6995b8905944113957f1a107"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10d"
+    },
+    {
+      "$oid": "6995b8905944113957f1a106"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10e"
+    }
+  ],
+  "score": 8,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 101,
+  "submittedAt": {
+    "$date": "2026-02-19T18:40:56.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56ac4fb8e887eb8f6be0"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    2,
+    3,
+    0,
+    2,
+    3
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f8b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f84"
+    }
+  ],
+  "score": 10,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 50,
+  "submittedAt": {
+    "$date": "2026-02-22T01:06:52.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56cd4fb8e887eb8f6c17"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f96"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f89"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa2"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 2,
+  "submittedAt": {
+    "$date": "2026-02-22T01:07:25.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5c66f798d5eefbe11d3c"
+  },
+  "userId": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    3,
+    2,
+    2,
+    1,
+    2,
+    2,
+    3,
+    2,
+    3,
+    1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f86"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f96"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    }
+  ],
+  "score": 8,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 47,
+  "submittedAt": {
+    "$date": "2026-02-22T01:31:18.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afbe309025f45455fec9c"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    1,
+    0,
+    3,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    0
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f84"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8e"
+    }
+  ],
+  "score": 8,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 34,
+  "submittedAt": {
+    "$date": "2026-02-22T12:51:47.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afc2209025f45455fecf3"
+  },
+  "userId": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f91"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f76"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f86"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f81"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f78"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8e"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 5,
+  "submittedAt": {
+    "$date": "2026-02-22T12:52:50.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afeb409025f45455fed7c"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f79"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f76"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f77"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f84"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f90"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9f"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 1,
+  "submittedAt": {
+    "$date": "2026-02-22T13:03:48.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afec009025f45455fedb7"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f87"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f78"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 2,
+  "submittedAt": {
+    "$date": "2026-02-22T13:04:00.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff0a09025f45455fedfe"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f90"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f89"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f77"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7f"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 2,
+  "submittedAt": {
+    "$date": "2026-02-22T13:05:14.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff0f09025f45455fee17"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f72"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa2"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 1,
+  "submittedAt": {
+    "$date": "2026-02-22T13:05:19.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff1309025f45455fee30"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f81"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa1"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 1,
+  "submittedAt": {
+    "$date": "2026-02-22T13:05:23.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02ee09025f45455feefc"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f79"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa2"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f76"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 2,
+  "submittedAt": {
+    "$date": "2026-02-22T13:21:50.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02f309025f45455fef15"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f86"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f72"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 1,
+  "submittedAt": {
+    "$date": "2026-02-22T13:21:55.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02f709025f45455fef2e"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f7b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f77"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f91"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa1"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f96"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 2,
+  "submittedAt": {
+    "$date": "2026-02-22T13:21:59.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02fc09025f45455fef47"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f84"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 1,
+  "submittedAt": {
+    "$date": "2026-02-22T13:22:04.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b40ee09025f45455fef82"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f96"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f87"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f97"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 4,
+  "submittedAt": {
+    "$date": "2026-02-22T17:46:22.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba2ba09025f45455fefb7"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    0,
+    -1,
+    -1,
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f90"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f78"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 8,
+  "submittedAt": {
+    "$date": "2026-02-23T00:43:38.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba67809025f45455ff004"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f84"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa2"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 4,
+  "submittedAt": {
+    "$date": "2026-02-23T00:59:36.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba6aa09025f45455ff025"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    0,
+    1,
+    1,
+    1,
+    0,
+    3,
+    0,
+    0,
+    3,
+    3
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f99"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f97"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    }
+  ],
+  "score": 10,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 37,
+  "submittedAt": {
+    "$date": "2026-02-23T01:00:26.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba6d109025f45455ff098"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27fa1"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f79"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f91"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 5,
+  "submittedAt": {
+    "$date": "2026-02-23T01:01:05.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c843a3369eaa4eb7e3949"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    2,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f8b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f88"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f97"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 4,
+  "submittedAt": {
+    "$date": "2026-02-23T16:45:46.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c844c3369eaa4eb7e3962"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f78"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f86"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f84"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f89"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 4,
+  "submittedAt": {
+    "$date": "2026-02-23T16:46:04.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c845a3369eaa4eb7e397b"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f97"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa1"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    }
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 10,
+  "submittedAt": {
+    "$date": "2026-02-23T16:46:18.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d062364ed44e461d4ff55"
+  },
+  "userId": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    1,
+    2,
+    0,
+    2,
+    1,
+    3,
+    2,
+    2,
+    1,
+    2
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f72"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9c"
+    }
+  ],
+  "optionOrders": [
+    [
+      0,
+      2,
+      1,
+      3
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      1,
+      3,
+      0,
+      2
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      0,
+      2,
+      1,
+      3
+    ],
+    [
+      2,
+      3,
+      1,
+      0
+    ],
+    [
+      1,
+      2,
+      0,
+      3
+    ],
+    [
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ]
+  ],
+  "score": 6,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 36,
+  "submittedAt": {
+    "$date": "2026-02-24T02:00:03.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d068164ed44e461d4ffe2"
+  },
+  "userId": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    3,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f79"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f96"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f78"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f87"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f91"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f81"
+    }
+  ],
+  "optionOrders": [
+    [
+      2,
+      1,
+      0,
+      3
+    ],
+    [
+      3,
+      1,
+      2,
+      0
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      1,
+      2,
+      0,
+      3
+    ],
+    [
+      0,
+      3,
+      2,
+      1
+    ],
+    [
+      0,
+      1,
+      3,
+      2
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      2,
+      0,
+      1
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ]
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 3,
+  "submittedAt": {
+    "$date": "2026-02-24T02:01:37.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d989a2c6795da09531270"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    3,
+    0,
+    3,
+    1,
+    1,
+    0,
+    3,
+    0,
+    3,
+    3
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f77"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f91"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    }
+  ],
+  "optionOrders": [
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      3,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      2,
+      1,
+      0,
+      3
+    ],
+    [
+      2,
+      1,
+      3,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ]
+  ],
+  "score": 9,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 81,
+  "submittedAt": {
+    "$date": "2026-02-24T12:24:58.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d99822c6795da095312bb"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    2,
+    3,
+    1,
+    3,
+    1,
+    2,
+    3,
+    2,
+    1,
+    1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f97"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f77"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f76"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa3"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    }
+  ],
+  "optionOrders": [
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      3,
+      0,
+      2,
+      1
+    ],
+    [
+      2,
+      0,
+      3,
+      1
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      1,
+      0,
+      2,
+      3
+    ]
+  ],
+  "score": 7,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 44,
+  "submittedAt": {
+    "$date": "2026-02-24T12:28:50.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699da2192c6795da095312e2"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    1,
+    1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    0,
+    1,
+    3
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f81"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f83"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f72"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    }
+  ],
+  "optionOrders": [
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      3,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      0,
+      2,
+      1
+    ],
+    [
+      0,
+      3,
+      2,
+      1
+    ],
+    [
+      0,
+      3,
+      1,
+      2
+    ],
+    [
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      2,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      2,
+      3
+    ]
+  ],
+  "score": 1,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 32,
+  "submittedAt": {
+    "$date": "2026-02-24T13:05:29.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dd8492c6795da0953136c"
+  },
+  "userId": {
+    "$oid": "699dd83c2c6795da09531351"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    2,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f96"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f87"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f81"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f91"
+    }
+  ],
+  "optionOrders": [
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      2,
+      1,
+      3,
+      0
+    ],
+    [
+      3,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      0,
+      2,
+      1
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      3,
+      0,
+      1,
+      2
+    ],
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ]
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 10,
+  "submittedAt": {
+    "$date": "2026-02-24T16:56:41.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecc321f62f0597879d60a"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    3
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f8f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f77"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f72"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f95"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f74"
+    }
+  ],
+  "optionOrders": [
+    [
+      2,
+      1,
+      3,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      2,
+      0,
+      3,
+      1
+    ],
+    [
+      1,
+      3,
+      0,
+      2
+    ],
+    [
+      3,
+      2,
+      0,
+      1
+    ],
+    [
+      2,
+      3,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      3,
+      2
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      0,
+      2,
+      1,
+      3
+    ],
+    [
+      3,
+      2,
+      1,
+      0
+    ]
+  ],
+  "score": 8,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 25,
+  "submittedAt": {
+    "$date": "2026-02-25T10:17:22.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ece221f62f0597879d645"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f80"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f75"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f81"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f87"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699e5b0c6a15462dd7bcd43e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f82"
+    }
+  ],
+  "optionOrders": [
+    [
+      0,
+      1,
+      3,
+      2
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      2,
+      3,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      2,
+      1
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      3,
+      0
+    ]
+  ],
+  "score": 0,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 83,
+  "submittedAt": {
+    "$date": "2026-02-25T10:25:38.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ee19f9f6343a0a04d5a5e"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "categoryConfigId": {
+    "$oid": "699a44c504af6ac422b27faf"
+  },
+  "answers": [
+    -1,
+    -1,
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f7d"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9c"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f76"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f92"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f94"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f8a"
+    },
+    {
+      "$oid": "699a449904af6ac422b27fa0"
+    }
+  ],
+  "optionOrders": [
+    [
+      0,
+      3,
+      1,
+      2
+    ],
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      2,
+      0,
+      1,
+      3
+    ],
+    [
+      3,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      0,
+      3,
+      1
+    ]
+  ],
+  "score": 1,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 12,
+  "submittedAt": {
+    "$date": "2026-02-25T11:48:47.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f098ccc2871c23d56b635"
+  },
+  "userId": {
+    "$oid": "699f096bcc2871c23d56b61a"
+  },
+  "categoryConfigId": {
+    "$oid": "699f0926cc2871c23d56b601"
+  },
+  "answers": [
+    3,
+    1,
+    1,
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699ee36e9f6343a0a04d5b7f"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699ee36e9f6343a0a04d5b7e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9c"
+    },
+    {
+      "$oid": "699ee36e9f6343a0a04d5b71"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f73"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9f"
+    },
+    {
+      "$oid": "699ee5509f6343a0a04d5c03"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9b"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    }
+  ],
+  "optionOrders": [
+    [
+      1,
+      3,
+      0,
+      2
+    ],
+    [
+      0,
+      1,
+      3,
+      2
+    ],
+    [
+      2,
+      3,
+      1,
+      0
+    ],
+    [
+      0,
+      3,
+      2,
+      1
+    ],
+    [
+      2,
+      1,
+      3,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      1,
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      2,
+      0,
+      3,
+      1
+    ]
+  ],
+  "score": 3,
+  "totalMarks": 10,
+  "passed": false,
+  "timeTaken": 30,
+  "submittedAt": {
+    "$date": "2026-02-25T14:39:08.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f6633cc2871c23d56b7af"
+  },
+  "userId": {
+    "$oid": "699f65d8cc2871c23d56b784"
+  },
+  "categoryConfigId": {
+    "$oid": "699f0926cc2871c23d56b601"
+  },
+  "answers": [
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    3,
+    2,
+    1,
+    1
+  ],
+  "mcqSnapshot": [
+    {
+      "$oid": "699a449904af6ac422b27f85"
+    },
+    {
+      "$oid": "699ee5509f6343a0a04d5c04"
+    },
+    {
+      "$oid": "699ef0be9f6343a0a04d5d98"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f93"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f86"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f9e"
+    },
+    {
+      "$oid": "699a449904af6ac422b27f7f"
+    },
+    {
+      "$oid": "699ef0be9f6343a0a04d5d99"
+    },
+    {
+      "$oid": "699ee5399f6343a0a04d5bee"
+    },
+    {
+      "$oid": "699ee36e9f6343a0a04d5b76"
+    }
+  ],
+  "optionOrders": [
+    [
+      0,
+      2,
+      1,
+      3
+    ],
+    [
+      3,
+      1,
+      0,
+      2
+    ],
+    [
+      2,
+      1,
+      0,
+      3
+    ],
+    [
+      2,
+      0,
+      3,
+      1
+    ],
+    [
+      2,
+      3,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      0,
+      3,
+      1,
+      2
+    ],
+    [
+      0,
+      3,
+      2,
+      1
+    ],
+    [
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      2,
+      0,
+      3
+    ]
+  ],
+  "score": 7,
+  "totalMarks": 10,
+  "passed": true,
+  "timeTaken": 81,
+  "submittedAt": {
+    "$date": "2026-02-25T21:14:27.640Z"
+  },
+  "__v": 0
+}]

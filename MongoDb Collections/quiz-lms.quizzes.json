@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "6995b8905944113957f1a110"
+  },
+  "title": "General Knowledge Quiz",
+  "description": "A quiz covering various topics including geography, mathematics, science, and more.",
+  "mcqIds": [
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a106"
+    },
+    {
+      "$oid": "6995b8905944113957f1a107"
+    },
+    {
+      "$oid": "6995b8905944113957f1a108"
+    },
+    {
+      "$oid": "6995b8905944113957f1a109"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10a"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10b"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10d"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10e"
+    }
+  ],
+  "numberOfQuestions": 5,
+  "duration": 10,
+  "passingMarks": 50,
+  "marksPerQuestion": 1,
+  "isActive": true,
+  "enrolledUsers": [
+    {
+      "$oid": "6999a33437b23f790a3a441d"
+    }
+  ],
+  "attemptLimit": 0,
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-18T13:03:12.651Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-21T12:21:40.548Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6995bb995fa72d4f835ee4bd"
+  },
+  "title": "test4 quiz",
+  "description": "",
+  "mcqIds": [
+    {
+      "$oid": "6995b8905944113957f1a107"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    }
+  ],
+  "numberOfQuestions": 3,
+  "duration": 1,
+  "passingMarks": 2,
+  "marksPerQuestion": 1,
+  "isActive": true,
+  "enrolledUsers": [
+    {
+      "$oid": "6995bb635fa72d4f835ee4ac"
+    }
+  ],
+  "attemptLimit": 5,
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0ff"
+  },
+  "createdAt": {
+    "$date": "2026-02-18T13:16:09.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-18T14:50:31.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6995c01f5fa72d4f835ee531"
+  },
+  "title": "test quiz",
+  "description": "",
+  "mcqIds": [
+    {
+      "$oid": "6995b8905944113957f1a10b"
+    },
+    {
+      "$oid": "6995b8905944113957f1a109"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10a"
+    },
+    {
+      "$oid": "6995b8905944113957f1a108"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10e"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10d"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a106"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    },
+    {
+      "$oid": "6995b8905944113957f1a107"
+    }
+  ],
+  "numberOfQuestions": 10,
+  "duration": 2,
+  "passingMarks": 7,
+  "marksPerQuestion": 1,
+  "isActive": true,
+  "enrolledUsers": [
+    {
+      "$oid": "699657a9d0b27824071e072c"
+    },
+    {
+      "$oid": "6995bb635fa72d4f835ee4ac"
+    }
+  ],
+  "attemptLimit": 10,
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0ff"
+  },
+  "createdAt": {
+    "$date": "2026-02-18T13:35:27.283Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T00:23:35.278Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "69975728d10cdf915a3114dd"
+  },
+  "title": "nat quiz 1",
+  "description": "",
+  "mcqIds": [
+    {
+      "$oid": "6995b8905944113957f1a109"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10b"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10c"
+    },
+    {
+      "$oid": "6995b8905944113957f1a105"
+    },
+    {
+      "$oid": "6995b8905944113957f1a108"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10a"
+    },
+    {
+      "$oid": "6995b8905944113957f1a107"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10d"
+    },
+    {
+      "$oid": "6995b8905944113957f1a106"
+    },
+    {
+      "$oid": "6995b8905944113957f1a10e"
+    }
+  ],
+  "numberOfQuestions": 10,
+  "duration": 2,
+  "passingMarks": 5,
+  "marksPerQuestion": 1,
+  "isActive": true,
+  "enrolledUsers": [
+    {
+      "$oid": "6997564ed10cdf915a3114c6"
+    },
+    {
+      "$oid": "699657a9d0b27824071e072c"
+    }
+  ],
+  "attemptLimit": 1,
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-19T18:32:08.711Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-19T18:32:08.711Z"
+  },
+  "__v": 0
+}]

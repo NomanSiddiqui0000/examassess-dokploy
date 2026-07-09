@@ -1,0 +1,1269 @@
+[{
+  "_id": {
+    "$oid": "6999bdc2249726be9c254936"
+  },
+  "userId": {
+    "$oid": "6999a33437b23f790a3a441d"
+  },
+  "action": "admin_recharge",
+  "amount": 34,
+  "balanceAfter": 34,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "timestamp": {
+    "$date": "2026-02-21T14:14:26.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a21748cdcd0adde3d36ba"
+  },
+  "userId": {
+    "$oid": "699a21748cdcd0adde3d36b8"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699a21748cdcd0adde3d36b8"
+  },
+  "reason": "Self-registration with category: NAT",
+  "timestamp": {
+    "$date": "2026-02-21T21:19:48.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a2fe393e229facd85b940"
+  },
+  "userId": {
+    "$oid": "699a2fe393e229facd85b93e"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "reason": "Admin-created student account",
+  "timestamp": {
+    "$date": "2026-02-21T22:21:23.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a452204af6ac422b28030"
+  },
+  "userId": {
+    "$oid": "699a452204af6ac422b2802e"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699a452204af6ac422b2802e"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-21T23:52:02.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a452404af6ac422b28048"
+  },
+  "userId": {
+    "$oid": "699a452204af6ac422b2802e"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699a452204af6ac422b2802e"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-21T23:52:04.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a49f304af6ac422b281ac"
+  },
+  "userId": {
+    "$oid": "699a452204af6ac422b2802e"
+  },
+  "action": "admin_recharge",
+  "amount": 6,
+  "balanceAfter": 6,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "timestamp": {
+    "$date": "2026-02-22T00:12:35.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a4aa304af6ac422b28207"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "reason": "Admin-created student account",
+  "timestamp": {
+    "$date": "2026-02-22T00:15:31.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a4ae504af6ac422b282d6"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T00:16:37.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56424fb8e887eb8f6b6e"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "admin_recharge",
+  "amount": 34,
+  "balanceAfter": 34,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "timestamp": {
+    "$date": "2026-02-22T01:05:06.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56794fb8e887eb8f6bd9"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 31,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:06:01.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56794fb8e887eb8f6bdb"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 28,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:06:01.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56cb4fb8e887eb8f6c10"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 25,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:07:23.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a56cb4fb8e887eb8f6c12"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 22,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:07:23.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a58944fb8e887eb8f6c99"
+  },
+  "userId": {
+    "$oid": "699a58944fb8e887eb8f6c97"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699a58944fb8e887eb8f6c97"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-22T01:15:00.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a58964fb8e887eb8f6cb3"
+  },
+  "userId": {
+    "$oid": "699a58944fb8e887eb8f6c97"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699a58944fb8e887eb8f6c97"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:15:02.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5a0b4fb8e887eb8f6de8"
+  },
+  "userId": {
+    "$oid": "699a5a0b4fb8e887eb8f6de6"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699a5a0b4fb8e887eb8f6de6"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-22T01:21:15.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5a0f4fb8e887eb8f6e02"
+  },
+  "userId": {
+    "$oid": "699a5a0b4fb8e887eb8f6de6"
+  },
+  "action": "quiz_deduction",
+  "amount": -3,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699a5a0b4fb8e887eb8f6de6"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:21:19.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5c33f798d5eefbe11d1b"
+  },
+  "userId": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-22T01:30:27.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5c36f798d5eefbe11d35"
+  },
+  "userId": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 2,
+  "performedBy": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:30:30.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5c36f798d5eefbe11d37"
+  },
+  "userId": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 1,
+  "performedBy": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:30:30.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699a5c74f798d5eefbe11d5e"
+  },
+  "userId": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699a5c33f798d5eefbe11d19"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T01:31:32.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afbc109025f45455fec95"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 21,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T12:51:13.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afbc109025f45455fec97"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 20,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T12:51:13.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afc1809025f45455fecd2"
+  },
+  "userId": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-22T12:52:40.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afc1c09025f45455fecec"
+  },
+  "userId": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 2,
+  "performedBy": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T12:52:44.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afc1c09025f45455fecee"
+  },
+  "userId": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 1,
+  "performedBy": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T12:52:44.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afc2c09025f45455fed0d"
+  },
+  "userId": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699afc1809025f45455fecd0"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T12:53:00.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afeb209025f45455fed78"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 19,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:03:46.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699afebe09025f45455fedb3"
+  },
+  "userId": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 18,
+  "performedBy": {
+    "$oid": "699a4aa304af6ac422b28205"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:03:58.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff0609025f45455fede5"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-22T13:05:10.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff0809025f45455fedfa"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 2,
+  "performedBy": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:05:12.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff0d09025f45455fee13"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 1,
+  "performedBy": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:05:17.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699aff1109025f45455fee2c"
+  },
+  "userId": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699aff0609025f45455fede3"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:05:21.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02e909025f45455feee3"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-22T13:21:45.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02ec09025f45455feef8"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:21:48.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02f109025f45455fef11"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 8,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:21:53.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02f509025f45455fef2a"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 7,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:21:57.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b02fa09025f45455fef43"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 6,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T13:22:02.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699b40e909025f45455fef7e"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 5,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-22T17:46:17.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba2b109025f45455fefb3"
+  },
+  "userId": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 4,
+  "performedBy": {
+    "$oid": "699b02e909025f45455feee1"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T00:43:29.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba66d09025f45455fefeb"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-23T00:59:25.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba67309025f45455ff000"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T00:59:31.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba68409025f45455ff021"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 8,
+  "performedBy": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T00:59:48.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ba6cc09025f45455ff094"
+  },
+  "userId": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 7,
+  "performedBy": {
+    "$oid": "699ba66d09025f45455fefe9"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T01:01:00.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c84333369eaa4eb7e3930"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-23T16:45:39.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c84353369eaa4eb7e3945"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T16:45:41.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c84473369eaa4eb7e395e"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 8,
+  "performedBy": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T16:45:59.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699c844f3369eaa4eb7e3977"
+  },
+  "userId": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 7,
+  "performedBy": {
+    "$oid": "699c84333369eaa4eb7e392e"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-23T16:46:07.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d05fc64ed44e461d4ff3c"
+  },
+  "userId": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-24T01:59:24.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d05fe64ed44e461d4ff51"
+  },
+  "userId": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-24T01:59:26.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d067d64ed44e461d4ffde"
+  },
+  "userId": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 8,
+  "performedBy": {
+    "$oid": "699d05fc64ed44e461d4ff3a"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-24T02:01:33.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d8f072c6795da095311a6"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "action": "initial_assignment",
+  "amount": 3,
+  "balanceAfter": 3,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "reason": "Admin-created student account",
+  "timestamp": {
+    "$date": "2026-02-24T11:44:07.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d97b92c6795da09531246"
+  },
+  "userId": {
+    "$oid": "699a58944fb8e887eb8f6c97"
+  },
+  "action": "admin_recharge",
+  "amount": 4,
+  "balanceAfter": 4,
+  "performedBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "timestamp": {
+    "$date": "2026-02-24T12:21:13.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d98482c6795da0953126c"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 2,
+  "performedBy": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-24T12:23:36.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699d99552c6795da095312b7"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 1,
+  "performedBy": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-24T12:28:05.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699da1f92c6795da095312de"
+  },
+  "userId": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 0,
+  "performedBy": {
+    "$oid": "699d8f072c6795da095311a4"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-24T13:04:57.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dd83c2c6795da09531353"
+  },
+  "userId": {
+    "$oid": "699dd83c2c6795da09531351"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699dd83c2c6795da09531351"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-24T16:56:28.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699dd83e2c6795da09531368"
+  },
+  "userId": {
+    "$oid": "699dd83c2c6795da09531351"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699dd83c2c6795da09531351"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-24T16:56:30.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecc171f62f0597879d5f1"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-25T10:16:55.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecc191f62f0597879d606"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-25T10:16:57.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ecdce1f62f0597879d641"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 8,
+  "performedBy": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-25T10:24:14.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ee1929f6343a0a04d5a5a"
+  },
+  "userId": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 7,
+  "performedBy": {
+    "$oid": "699ecc171f62f0597879d5ef"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-25T11:48:34.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f089ccc2871c23d56b5bb"
+  },
+  "userId": {
+    "$oid": "699f089ccc2871c23d56b5b9"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699f089ccc2871c23d56b5b9"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-25T14:35:08.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f096bcc2871c23d56b61c"
+  },
+  "userId": {
+    "$oid": "699f096bcc2871c23d56b61a"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699f096bcc2871c23d56b61a"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-25T14:38:35.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f096dcc2871c23d56b631"
+  },
+  "userId": {
+    "$oid": "699f096bcc2871c23d56b61a"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699f096bcc2871c23d56b61a"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-25T14:38:37.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f65d8cc2871c23d56b786"
+  },
+  "userId": {
+    "$oid": "699f65d8cc2871c23d56b784"
+  },
+  "action": "initial_assignment",
+  "amount": 10,
+  "balanceAfter": 10,
+  "performedBy": {
+    "$oid": "699f65d8cc2871c23d56b784"
+  },
+  "reason": "Self-registration with category: NAT 26",
+  "timestamp": {
+    "$date": "2026-02-25T21:12:56.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699f65e2cc2871c23d56b7ab"
+  },
+  "userId": {
+    "$oid": "699f65d8cc2871c23d56b784"
+  },
+  "action": "quiz_deduction",
+  "amount": -1,
+  "balanceAfter": 9,
+  "performedBy": {
+    "$oid": "699f65d8cc2871c23d56b784"
+  },
+  "reason": "Started NAT 26 category quiz",
+  "timestamp": {
+    "$date": "2026-02-25T21:13:06.530Z"
+  },
+  "__v": 0
+}]

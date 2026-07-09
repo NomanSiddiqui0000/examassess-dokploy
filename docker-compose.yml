@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  uniassess-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: uniassess-app
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - PORT=5000
+      # ─── REQUIRED: Set these before running ───────────────
+      - MONGODB_URI=${MONGODB_URI}        # e.g. mongodb+srv://user:pass@cluster.mongodb.net/uniassess
+      - JWT_SECRET=${JWT_SECRET}          # strong random string
+      - JWT_EXPIRES_IN=${JWT_EXPIRES_IN:-7d}
+      # ─── Email / SMTP ────────────────────────────────────
+      - SMTP_HOST=${SMTP_HOST:-smtp-relay.brevo.com}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_SECURE=${SMTP_SECURE:-false}
+      - SMTP_USER=${SMTP_USER}
+      - SMTP_PASS=${SMTP_PASS}
+      - EMAIL_FROM=${EMAIL_FROM:-ExamAssess <noreply@uniassess.live>}
+      # ─── Frontend URLs ───────────────────────────────────
+      - FRONTEND_URL=${FRONTEND_URL:-https://uniassess.live}
+      - INVITATION_LOGIN_URL=${INVITATION_LOGIN_URL:-https://uniassess.live/login}

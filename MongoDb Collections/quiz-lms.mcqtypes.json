@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "699e55a76a15462dd7bcd00f"
+  },
+  "name": "Mathematics",
+  "categoryId": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "status": "active",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T01:51:35.800Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T01:51:35.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e5aa36a15462dd7bcd41e"
+  },
+  "name": "Science",
+  "categoryId": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "status": "active",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T02:12:51.316Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T02:12:51.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699e5ab76a15462dd7bcd426"
+  },
+  "name": "Physics",
+  "categoryId": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "status": "active",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T02:13:11.763Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T02:13:11.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699ef0669f6343a0a04d5d59"
+  },
+  "name": "English",
+  "categoryId": {
+    "$oid": "699a3aaf25d51a9dfe215dc5"
+  },
+  "status": "active",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T12:51:50.224Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T12:51:50.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "699efcfd9f6343a0a04d6150"
+  },
+  "name": "Reasoning",
+  "categoryId": {
+    "$oid": "699ef3cb9f6343a0a04d5feb"
+  },
+  "status": "active",
+  "createdBy": {
+    "$oid": "6995b88f5944113957f1a0fd"
+  },
+  "createdAt": {
+    "$date": "2026-02-25T13:45:33.771Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-25T13:45:33.771Z"
+  },
+  "__v": 0
+}]
