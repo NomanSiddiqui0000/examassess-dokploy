@@ -44,7 +44,7 @@ COPY --from=builder /app/backend/dist ./backend/dist
 COPY --from=builder /app/backend/frontend/dist ./backend/frontend/dist
 
 # Expose the API port
-EXPOSE 5000
+EXPOSE 5173
 
 # Command to run the backend server using the workspace script
 CMD ["npm", "start"]
