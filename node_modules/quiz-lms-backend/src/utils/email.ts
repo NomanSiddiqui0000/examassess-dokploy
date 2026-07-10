@@ -72,7 +72,7 @@ function getTransporter(): Mail {
 }
 
 const getEmailFrom = () => getSmtpConfig().from;
-const getFrontendUrl = () => envValue('FRONTEND_URL', 'APP_URL') || 'https://uniassess.live';
+const getFrontendUrl = () => envValue('FRONTEND_URL', 'APP_URL') || 'https://www.examassess.com';
 const getInvitationLoginUrl = () => envValue('INVITATION_LOGIN_URL') || `${getFrontendUrl().replace(/\/$/, '')}/login`;
 const escapeHtml = (value: unknown) => String(value ?? '')
     .replace(/&/g, '&amp;')
