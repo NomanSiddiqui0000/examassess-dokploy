@@ -246,9 +246,9 @@ const startServer = async () => {
     }
 
     // --- Start Express only after DB is confirmed ---
-    app.listen(PORT as number, '0.0.0.0', () => {
+    app.listen(PORT as number, '192.168.1.165', () => {
         console.log(`🚀 Server running on port ${PORT}`);
-        console.log(`📍 API endpoint: http://0.0.0.0:${PORT}/api`);
+        console.log(`📍 API endpoint: http://192.168.1.165:${PORT}/api`);
     });
 
     // --- Start background services only after DB is confirmed ---
